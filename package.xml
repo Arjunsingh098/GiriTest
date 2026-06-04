@@ -9,6 +9,16 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>standard__AllTabSet</members>
+        <members>standard__AppLauncher</members>
+        <members>standard__Approvals</members>
+        <members>standard__Audience360</members>
+        <members>standard__Chatter</members>
+        <members>standard__Community</members>
+        <members>standard__Content</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
         <members>AITestSuiteRunJob</members>
         <members>AITestSuiteWorkbookAssoc</members>
         <members>AIWorkbook</members>
