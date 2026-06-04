@@ -9,18 +9,6 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>Internal Zone</members>
-        <name>Community</name>
-    </types>
-    <types>
-        <members>devedapp__DeveloperWebsiteContents</members>
-        <name>CspTrustedSite</name>
-    </types>
-    <types>
-        <members>standard__AgentforceStudio</members>
-        <name>CustomApplication</name>
-    </types>
-    <types>
         <members>AITestSuiteRunJob</members>
         <members>AITestSuiteWorkbookAssoc</members>
         <members>AIWorkbook</members>
